@@ -1,5 +1,10 @@
 # foxBMS Change Log
 
+## Release 1.0.1
+
+- updated license header
+- updated README.md
+
 ## Release 1.0.0
 
 - renamed repository from ``hal`` to ``mcu-hal``.
